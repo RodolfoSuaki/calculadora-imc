@@ -1,0 +1,31 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #d3d3d3;
+    height: 100dvh;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+.peso {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.altura{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0 80px 0;
+}
+
+.resultado{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-bottom: 50px;
+}
